@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html>
+<html lang="">
 <head>
     <meta charset="UTF-8">
     <title>Мій перший сайт</title>
